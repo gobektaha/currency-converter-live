@@ -13,4 +13,4 @@ A real-time currency converter built with **React** and an **Exchange Rate API**
 - **Exchange Rate API** (Live data)
 - **CSS** for styling
 
-## 📦 Installation & Usage
+
